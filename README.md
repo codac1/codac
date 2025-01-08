@@ -122,8 +122,7 @@ Create a branch (feature/your-feature).
 Commit your changes (git commit -m "Add new feature").
 Push to your branch and open a Pull Request.
 
-##📄 License
-MIT License – see the LICENSE file for details.
+
 
 ---
 
