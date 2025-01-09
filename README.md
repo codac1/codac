@@ -1,4 +1,4 @@
-# CODAC Agent 🚀
+# CODAC Agent
 **AI-Powered Signal Generator for Crypto Infrastructure**
 
 CODAC Agent is designed to automate the discovery of emerging meme coins and tokens by scraping pump.fun using advanced web scraping and AI-driven analysis. This project empowers users to stay ahead in the fast-paced crypto space by generating actionable insights in real-time.
