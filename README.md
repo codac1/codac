@@ -5,12 +5,12 @@ CODAC Agent is designed to automate the discovery of emerging meme coins and tok
 
 ---
 
-## 🔍 Our Approach
+## Our Approach
 CODAC Agent leverages real-time data scraping and engagement metrics to track new coin launches, allowing users to identify trends early. By focusing on user engagement signals and market data, CODAC offers predictive insights into potentially high-performing tokens.
 
 ---
 
-## 🚀 Key Innovations
+## Key Innovations
 - **AI-Powered Signal Generation** – Advanced algorithms filter and highlight new tokens with high engagement.
 - **Web Scraping with Puppeteer** – Automatically scrape pump.fun for the latest meme coin listings.
 - **Real-Time Monitoring** – Live updates with WebSockets and analytics dashboards.
@@ -19,7 +19,7 @@ CODAC Agent leverages real-time data scraping and engagement metrics to track ne
 
 ---
 
-## ⚙️ Technical Implementation
+##  Technical Implementation
 Built with modern technologies for scalability and real-time processing:
 - **Node.js** – Backend API server and application logic.
 - **Express** – Lightweight and efficient API development.
@@ -30,7 +30,7 @@ Built with modern technologies for scalability and real-time processing:
 
 ---
 
-## 🔧 Features
+##  Features
 - **Real-Time Scraping** – Detect new listings in seconds.
 - **Lazy Loading Support** – Handle lazy-loaded content dynamically.
 - **API-Driven Architecture** – Integrate signals into other systems with ease.
@@ -39,7 +39,7 @@ Built with modern technologies for scalability and real-time processing:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 - **Node.js** – Server and API logic
 - **Express** – Web framework
 - **Puppeteer** – Web scraping
@@ -51,7 +51,7 @@ Built with modern technologies for scalability and real-time processing:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 git clone https://github.com/username/codac-agent.git
@@ -83,21 +83,21 @@ npm run dev
 npm start – Runs the server normally.
 npm run dev – Uses nodemon to restart the server automatically when changes are detected.
 
-## 🧪 Running Tests
+##  Running Tests
 ```bash
 npm run test
 ```
 Test cases are located in the /tests directory.
 Uses Jest and Supertest for API endpoint testing.
 
-## 🐳 Docker Setup
+##  Docker Setup
 If you prefer to run the project inside a Docker container:
 ```bash
 docker-compose up --build
 ```
 This will spin up the entire project along with Redis and PostgreSQL services as defined in docker-compose.yml.
 
-## 📊 Monitoring and Analytics
+## Monitoring and Analytics
 Grafana dashboards are available at:
 
 arduino
@@ -114,7 +114,7 @@ http://localhost:9090
 ```
 These services monitor application health, performance, and API request statistics.
 
-## 🤝 Contributing
+##  Contributing
 We welcome contributions! Please follow these steps:
 
 Fork the repository.
